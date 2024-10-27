@@ -14,14 +14,14 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Notes"
+    url: /Tian-notes/
         
   - title: "Blog Posts"
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /Tian-cv/
     
   - title: "Guide"
     url: /markdown/
