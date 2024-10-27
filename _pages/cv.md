@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: Menglei-Tian.github.io/Tian-cv/
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
