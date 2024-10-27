@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Personal Page"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Menglei Tian"
 description              : &description "personal description"
@@ -24,19 +24,19 @@ author:
   avatar           : "profile.png"
   name             : "Menglei Tian"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "A student in Physics."
+  location         : "Copenhagen, Denmark"
+  employer         : "UCPH"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : ""
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : ""
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : ""
   researchgate     : # URL
 
   # Repositories and software development
