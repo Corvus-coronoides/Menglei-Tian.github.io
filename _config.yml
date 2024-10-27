@@ -12,7 +12,7 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Menglei Tian"
 description              : &description "personal description"
-url                      : https://Menglei-Tian.github.io 
+url                      : https://corvus-coronoides.github.io/Menglei-Tian.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Menglei-Tian/notes.github.io"
 
