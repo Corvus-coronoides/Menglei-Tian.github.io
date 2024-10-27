@@ -15,13 +15,13 @@ main:
     url: /teaching/    
     
   - title: "Notes"
-    url: Menglei-Tian.github.io/Tian-notes/
+    url: /notes/
         
   - title: "Blog Posts"
     url: /year-archive/
     
   - title: "CV"
-    url: Menglei-Tian.github.io/Tian-cv/
+    url: /cv/
     
   - title: "Guide"
     url: /markdown/
