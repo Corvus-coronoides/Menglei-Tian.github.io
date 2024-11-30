@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a master student from UCPH. My research interest includes TQFT and SCFT.
+I'm a master's student at UCPH/KU. I'm interested in TQFT, supersymmetry and low-dimensional topology.
 
 Under Construction
 ======
