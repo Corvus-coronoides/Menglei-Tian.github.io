@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Menglei Tian"
   pronouns         : # example: "she/her"  
-  bio              : "大象无形，大音希声."
+  bio              : ""
   location         : "Copenhagen, Denmark"
   employer         : "UCPH"
   uri              : # URL
@@ -71,6 +71,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
