@@ -13,4 +13,4 @@ Recent Interest
 ======
 knot homology  
 topological twist  
-3d-3d correspondence (3-manifold M_3 and 3d N=2 theory T[M_3]
+3d-3d correspondence (3-manifold $M_3$ and 3d $\mathscr{N}=2$ theory $T[M_3]$
