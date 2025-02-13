@@ -1,11 +1,13 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Grammar Reference"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
+
+This page is reserved for myself as a reference on the grammar.
 
 ## Locations of key files/directories
 
