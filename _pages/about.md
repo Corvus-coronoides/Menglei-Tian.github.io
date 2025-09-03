@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a master's student at UCPH/KU. I'm interested in TQFT, supersymmetry, and low-dimensional topology.
+I'm a master's student at UCPH/KU and I'm visiting SDU now. I'm interested in TQFT, supersymmetry, and low-dimensional topology.
 
 Recent Interest
 ======
-* knot homology  
-* topological twist  
+* Chern-Simons theory with matters  
+* gauged WZW model and Grassmannian sigma model
 * 3d-3d correspondence (3-manifold $$M_3$$ and 3d $$\mathscr{N}=2$$ theory $$T[M_3]$$)
-* superconformal Ward identities in SCFT with defects
+
