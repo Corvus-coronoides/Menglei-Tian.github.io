@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. University of Copenhagen, 2026 (expected)
+* M.S. University of Copenhagen, 2026 
 * B.S. University of Science and Technology of China, 2024
   
 Skills
